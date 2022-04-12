@@ -11,7 +11,7 @@ import SwiftUI
 struct SayiTahminAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            GirisSayfasi()
         }
     }
 }
